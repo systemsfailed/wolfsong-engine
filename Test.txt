@@ -1,0 +1,5 @@
+[
+{"name":"test","file":"test","directory":"Resources","type":"music"},
+{"name":"kaiya","file":"kaiya.png","directory":"Resources","type":"sprite"},
+{"name":"gems","file":"orbs.png","directory":"Resources","type":"sprite"}
+]
